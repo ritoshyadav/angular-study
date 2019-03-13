@@ -1,0 +1,9 @@
+output Data
+
+String interpolation({{data}})
+property binding ([property]="data"]
+
+React to (User) event
+event binding ((event)="expression")
+
+Combination of both= two-way-Binding([(ngModel)]="data")
